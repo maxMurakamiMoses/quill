@@ -28,7 +28,6 @@
     "@trpc/next": "^10.38.4",
     "@trpc/react-query": "^10.38.4",
     "@trpc/server": "^10.38.4",
-    "@types/node": "20.6.3",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "@uploadthing/react": "^5.6.1",
@@ -63,5 +62,8 @@
     "typescript": "5.2.2",
     "uploadthing": "^5.6.1",
     "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
   }
 }
